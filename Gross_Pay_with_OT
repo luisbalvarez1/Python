@@ -1,4 +1,4 @@
-#main.py
+#main.py Project 6
 hour = input("Enter Hours: ")
 rate = input("Enter Rate: ")
 hour = float(hour)
